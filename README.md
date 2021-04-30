@@ -1,4 +1,4 @@
-# Sudoku Solver with Python
+# Sudoku Solver-Python
 
 * Created a tool with Python that solves a sudoku board puzzle
 * Included a backtracking function so that the tool would not get stuck
